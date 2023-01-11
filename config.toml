@@ -12,14 +12,6 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "efoncubierta"
 
-languages:
-  en:
-    weight: 1
-  es:
-    params:
-      description = "Web personal de Ezequiel Foncubierta"
-    weight: 2
-
 [params]
   author = "Ezequiel Foncubierta"
   info = "Software engineer, aspiring astrophysicist and mountain runner"
@@ -69,6 +61,11 @@ languages:
   icon = "fa fa-mastodon fa-2x"
   weight = 4
   url = "https://mastodon.online/@eze"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 5
+  url = "https://www.linkedin.com/in/efoncubierta/"
 
 # Menu links
 [[menu.main]]
