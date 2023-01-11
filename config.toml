@@ -12,11 +12,19 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "efoncubierta"
 
+languages:
+  en:
+    weight: 1
+  es:
+    params:
+      description = "Web personal de Ezequiel Foncubierta"
+    weight: 2
+
 [params]
   author = "Ezequiel Foncubierta"
-  info = "A cloud-native nerd and aspiring astrophysicist"
+  info = "Software engineer, aspiring astrophysicist and mountain runner"
   description = "Ezequiel Foncubierta website"
-  keywords = "blog,developer,personal"
+  keywords = "blog,developer,personal,cloud,infrastructure,aws,azure,kubernetes"
   avatarurl = "images/avatar.jpg"
   gravatar = "ezequiel@foncubierta.com"
 
@@ -45,23 +53,28 @@ disqusShortname = "efoncubierta"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/efoncubierta/"
+  url = "https://github.com/efoncubierta"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 2
-  url = "https://twitter.com/twitter/"
+  url = "https://twitter.com/twitter/EzeFoncubierta"
 [[params.social]]
   name = "Instagram"
   icon = "fa fa-instagram fa-2x"
   weight = 3
-  url = "https://instagram.com/efoncubierta/"
+  url = "https://instagram.com/ultrafoncu"
+[[params.social]]
+  name = "Mastodon"
+  icon = "fa fa-mastodon fa-2x"
+  weight = 4
+  url = "https://mastodon.online/@eze"
 
 # Menu links
-#[[menu.main]]
-#  name = "Blog"
-#  weight = 1
-#  url  = "posts/"
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
 #[[menu.main]]
 #  name = "About"
 #  weight = 2
