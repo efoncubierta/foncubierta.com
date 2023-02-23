@@ -50,7 +50,7 @@ disqusShortname = "efoncubierta"
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 2
-  url = "https://twitter.com/twitter/EzeFoncubierta"
+  url = "https://twitter.com/EzeFoncubierta"
 [[params.social]]
   name = "Instagram"
   icon = "fa fa-instagram fa-2x"
