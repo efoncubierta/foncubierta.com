@@ -68,7 +68,7 @@ disqusShortname = "efoncubierta"
   url = "https://www.linkedin.com/in/efoncubierta/"
 [[params.social]]
   name = "Principia Machina"
-  icon = "fa fa-newspaper fa-2x"
+  icon = "fa fa-newspaper-o fa-2x"
   weight = 6
   url = "https://principiamachina.substack.com"
 
