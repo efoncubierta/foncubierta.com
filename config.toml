@@ -66,13 +66,14 @@ disqusShortname = "efoncubierta"
   icon = "fa fa-linkedin fa-2x"
   weight = 5
   url = "https://www.linkedin.com/in/efoncubierta/"
+[[params.social]]
+  name = "Substack"
+  icon = "fa fa-substack fa-2x"
+  weight = 5
+  url = "https://principiamachina.substack.com"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "Newsletter"
   weight = 1
-  url  = "posts/"
-#[[menu.main]]
-#  name = "About"
-#  weight = 2
-#  url = "about/"
+  url  = "https://principiamachina.substack.com"
