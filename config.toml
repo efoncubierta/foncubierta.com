@@ -70,10 +70,10 @@ disqusShortname = "efoncubierta"
   name = "Principia Machina"
   icon = "fa fa-newspaper-o fa-2x"
   weight = 6
-  url = "https://principiamachina.substack.com"
+  url = "https://newsletter.principiamachina.com"
 
 # Menu links
 [[menu.main]]
   name = "Principia Machina"
   weight = 1
-  url  = "https://principiamachina.substack.com"
+  url  = "https://newsletter.principiamachina.com"
