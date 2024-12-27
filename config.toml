@@ -34,6 +34,10 @@ disqusShortname = "efoncubierta"
 #  customSCSS = ["scss/custom.scss"]
 #  customJS = ["js/custom.js"]
 
+#[[params.plugins.css]]
+#  link = "plugins/font-awesome/v6/brands.css"
+#  lazy = true
+
 [taxonomies]
   category = "categories"
   series = "series"
