@@ -34,9 +34,9 @@ disqusShortname = "efoncubierta"
 #  customSCSS = ["scss/custom.scss"]
 #  customJS = ["js/custom.js"]
 
-[[params.plugins.css]]
-  link = "plugins/font-awesome/v6/brands.css"
-  lazy = true
+#[[params.plugins.css]]
+#  link = "plugins/font-awesome/v6/brands.css"
+#  lazy = true
 
 [taxonomies]
   category = "categories"
@@ -57,7 +57,7 @@ disqusShortname = "efoncubierta"
   url = "https://instagram.com/ultrafoncu"
 [[params.social]]
   name = "Bluesky"
-  icon = "fa fa-bluesky fa-2x"
+  icon = "fa fa-cloud fa-2x"
   weight = 4
   url = "https://bsky.app/profile/foncubierta.com"
 [[params.social]]
